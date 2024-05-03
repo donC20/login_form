@@ -1,0 +1,41 @@
+.google-btn {
+    padding: 3px;
+    border-radius: 2px;
+    width: 250px;
+    max-width: 300px;
+    background-color: #4285f4;
+    border: none;
+}
+
+.google-btn a{
+    text-decoration: none;
+}
+
+.google-btn .google-icon-wrapper {
+    width: 50px;
+    max-width: 50px;
+    min-width: 38px;
+    height: 38px;
+    border-radius: 2px;
+    background-color: #fff;
+}
+
+.google-btn .google-icon {
+
+    height: 18px;
+}
+
+.google-btn .btn-text {
+    color: #fff;
+    font-size: 12px;
+    letter-spacing: 0.2px;
+
+}
+
+.google-btn:hover {
+    box-shadow: 0 0 6px #4285f4;
+}
+
+.google-btn:active {
+    background: #1669F2;
+}
